@@ -1,0 +1,93 @@
+.ocean{
+    border-radius: 10px;
+    text-align: center;
+    background-color: aqua;
+    width:100%;
+    height: 600px;
+    font-family: fantasy;
+    color: chocolate;
+}
+.forest{
+   
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(183, 0, 255);
+    width:100%;
+    height: 600px;
+    font-family:  'Times New Roman', Times, serif;
+    color: rgb(3, 6, 6);
+}
+ 
+.cloud{
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgba(255, 0, 0, 0.489);
+    width:100%;
+    height: 600px;
+    font-family: fantasy;
+    color: rgb(255, 115, 0);
+}
+.ocean1{
+    border-radius: 10px;
+    text-align: center;
+    background-color: aqua;
+    width:400px;
+    height: 400px;
+    font-family: fantasy;
+    color: chocolate;
+}
+.forest1{
+   
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(183, 0, 255);
+    width:400px;
+    height: 400px;
+    font-family: fantasy;
+    color: rgb(210, 30, 87);
+}
+ 
+.cloud1{
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgba(255, 0, 0, 0.489);
+    width:400px;
+    height: 400px;
+    font-family: fantasy;
+    color: rgb(255, 115, 0);
+}
+.forest:hover{
+    box-shadow: 10px 10px 20px purple;
+}
+.cloud:hover{
+    box-shadow: 10px 10px 20px purple;
+}
+.ocean:hover{
+    box-shadow: 10px 10px 20px purple;
+}
+.saffron{
+    background-color: salmon;
+    color:rgb(151, 12, 130);
+    text-shadow: black;
+    width:200px;
+    height: 200px;
+    border-radius: 10px;
+}
+.white{
+    background-color: thistle;
+    color:rgb(231, 23, 231);
+    text-shadow: black;
+    width:200px;
+    height: 200px;
+    border-radius: 10px;
+ 
+}
+.green{
+    background-color: green;
+    color: rgb(100, 0, 0);
+    text-shadow: black;
+    width:200px;
+    height: 200px;
+    border-radius: 10px;
+ 
+}

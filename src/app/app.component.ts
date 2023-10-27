@@ -1,10 +1,12 @@
-import { Component } from '@angular/core';
-
-@Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
-})
 export class AppComponent {
-  title = 'assignment';
+  title = 'bindings';
+  themeName:string='forest';
+  bgTheme:string='';
+  size:number=0;
+  themeName1:string="ocean1";
+  firstname:string="Sri";
+  lastname:string="Vishnu";
+  enableDisable:boolean=false;
+  hiddenShown:boolean=false;
+  selectedOption:string='None';
 }
